@@ -1,14 +1,28 @@
+name: Shawn
+favicon: null
 layout_spectrum: 0.4820789
 typography_spectrum: 0.4982079
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7959312
-  lightness: 0.5928956
-  brandStrength: 0.5017921
   brandColors:
     - '#305392'
     - '#171F16'
     - '#919A4B'
     - '#D9D6BE'
     - '#FFFFFF'
+  brandStrength: 0.5017921
+  lightness: 0.5928956
+  saturation: 0.7959312
   rhythmicContrast: 0.2204778
-name: Shawn
+purpose: []
